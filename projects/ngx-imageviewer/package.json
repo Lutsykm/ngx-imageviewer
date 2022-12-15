@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Lutsykm/ngx-imageviewer"
+    "url": "https://github.com/lutsykm/ngx-imageviewer"
   },
   "keywords": [
     "image",
@@ -15,7 +15,7 @@
     "canvas",
     "component"
   ],
-  "homepage": "https://github.com/Lutsykm/ngx-imageviewer#readme",
+  "homepage": "https://github.com/lutsykm/ngx-imageviewer#readme",
   "peerDependencies": {
     "@angular/common": "^14.2.12",
     "@angular/core": "^14.2.12"

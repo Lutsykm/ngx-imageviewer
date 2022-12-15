@@ -32,7 +32,7 @@ jobs:
         keep_history: true
         github_token: $GH_TOKEN
         local_dir: dist/ngx-imageviewer-app
-        on: 
+        on:
           branch: master
     - stage: "Release"
       name: "Release"
