@@ -1,11 +1,11 @@
 {
-  "name": "@emazv72/ngx-imageviewer",
-  "version": "0.0.0-development",
+  "name": "@lutsyk/ngx-imageviewer",
+  "version": "14.2.12-development",
   "author": "Hallyson Almeida <hallysonh@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/emazv72/ngx-imageviewer"
+    "url": "https://github.com/Lutsykm/ngx-imageviewer"
   },
   "keywords": [
     "image",
@@ -15,10 +15,10 @@
     "canvas",
     "component"
   ],
-  "homepage": "https://github.com/emazv72/ngx-imageviewer#readme",
+  "homepage": "https://github.com/Lutsykm/ngx-imageviewer#readme",
   "peerDependencies": {
-    "@angular/common": "^12.2.0",
-    "@angular/core": "^12.2.0"
+    "@angular/common": "^14.2.12",
+    "@angular/core": "^14.2.12"
   },
   "optionalDependencies": {
     "pdfjs-dist": "^3.1.81"
