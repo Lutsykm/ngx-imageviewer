@@ -1,6 +1,6 @@
 {
   "name": "@max.lutsenko/ngx-imageviewer",
-  "version": "14.2.14",
+  "version": "14.2.15",
   "author": "Hallyson Almeida <hallysonh@gmail.com>",
   "license": "MIT",
   "repository": {
@@ -21,6 +21,6 @@
     "@angular/core": "^14.2.12"
   },
   "optionalDependencies": {
-    "pdfjs-dist": "^3.1.81"
+    "pdfjs-dist": "^2.16.105"
   }
 }
